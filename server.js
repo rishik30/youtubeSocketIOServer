@@ -4,7 +4,7 @@ const socketIO = require('socket.io')
 
 const { router } = require("./router")
 
-const PORT = 4001
+const PORT = 3000
 
 const app = express()
 
